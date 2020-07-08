@@ -1,7 +1,7 @@
 import java.util.Random;
 
 /**
- * @author Igor Krol
+ * @author Igor Krol and shai kaikov
  */
 public class Node {
     double x,y;
